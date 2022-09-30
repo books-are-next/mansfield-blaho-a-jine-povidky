@@ -1,0 +1,551 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Blaho a jiné povídky",
+  "author": "Katherine Mansfieldová",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "mansfieldova-blaho-a-jine-povidky-081805f",
+  "revision": "081805f",
+  "readingOrder": [
+    "promo.html",
+    "blaho_a_jine_povidky_005.html",
+    "blaho_a_jine_povidky_006.html",
+    "blaho_a_jine_povidky_007.html",
+    "blaho_a_jine_povidky_008.html",
+    "blaho_a_jine_povidky_009.html",
+    "blaho_a_jine_povidky_010.html",
+    "blaho_a_jine_povidky_011.html",
+    "blaho_a_jine_povidky_012.html",
+    "blaho_a_jine_povidky_013.html",
+    "blaho_a_jine_povidky_014.html",
+    "blaho_a_jine_povidky_015.html",
+    "blaho_a_jine_povidky_016.html",
+    "blaho_a_jine_povidky_017.html",
+    "blaho_a_jine_povidky_018.html",
+    "blaho_a_jine_povidky_019.html",
+    "blaho_a_jine_povidky_020.html",
+    "blaho_a_jine_povidky_021.html",
+    "blaho_a_jine_povidky_022.html",
+    "blaho_a_jine_povidky_023.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Fri Sep 30 2022 08:31:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664526677182
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "blaho_a_jine_povidky_005.html",
+      "toc": []
+    },
+    {
+      "title": "Katherine Mansfieldová",
+      "file": "blaho_a_jine_povidky_005.html",
+      "words": 1712,
+      "chars": 11572,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "blaho_a_jine_povidky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Katherine Mansfieldová",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Preludium",
+      "file": "blaho_a_jine_povidky_006.html",
+      "words": 13471,
+      "chars": 77992,
+      "ideas": 466,
+      "role": "chapter",
+      "order": 2,
+      "prev": "blaho_a_jine_povidky_005.html",
+      "next": "blaho_a_jine_povidky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Preludium",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12",
+              "id": "12",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Je ne parle pas français4",
+      "file": "blaho_a_jine_povidky_007.html",
+      "words": 8828,
+      "chars": 50521,
+      "ideas": 296,
+      "role": "chapter",
+      "order": 3,
+      "prev": "blaho_a_jine_povidky_006.html",
+      "next": "blaho_a_jine_povidky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Je ne parle pas français4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Blaho",
+      "file": "blaho_a_jine_povidky_008.html",
+      "words": 4005,
+      "chars": 23025,
+      "ideas": 165,
+      "role": "chapter",
+      "order": 4,
+      "prev": "blaho_a_jine_povidky_007.html",
+      "next": "blaho_a_jine_povidky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Blaho",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Duje vítr",
+      "file": "blaho_a_jine_povidky_009.html",
+      "words": 1387,
+      "chars": 7652,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 5,
+      "prev": "blaho_a_jine_povidky_008.html",
+      "next": "blaho_a_jine_povidky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Duje vítr",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Psychologie",
+      "file": "blaho_a_jine_povidky_010.html",
+      "words": 2237,
+      "chars": 12890,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 6,
+      "prev": "blaho_a_jine_povidky_009.html",
+      "next": "blaho_a_jine_povidky_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Psychologie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "U filmu",
+      "file": "blaho_a_jine_povidky_011.html",
+      "words": 2737,
+      "chars": 16098,
+      "ideas": 107,
+      "role": "chapter",
+      "order": 7,
+      "prev": "blaho_a_jine_povidky_010.html",
+      "next": "blaho_a_jine_povidky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "U filmu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Člověk bez temperamentu",
+      "file": "blaho_a_jine_povidky_012.html",
+      "words": 4066,
+      "chars": 23878,
+      "ideas": 132,
+      "role": "chapter",
+      "order": 8,
+      "prev": "blaho_a_jine_povidky_011.html",
+      "next": "blaho_a_jine_povidky_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Člověk bez temperamentu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den pana Zvonimíra Páva",
+      "file": "blaho_a_jine_povidky_013.html",
+      "words": 2680,
+      "chars": 15484,
+      "ideas": 106,
+      "role": "chapter",
+      "order": 9,
+      "prev": "blaho_a_jine_povidky_012.html",
+      "next": "blaho_a_jine_povidky_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den pana Zvonimíra Páva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sluníčko a Hvězdička",
+      "file": "blaho_a_jine_povidky_014.html",
+      "words": 1864,
+      "chars": 10989,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 10,
+      "prev": "blaho_a_jine_povidky_013.html",
+      "next": "blaho_a_jine_povidky_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sluníčko a Hvězdička",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Feuille d’album",
+      "file": "blaho_a_jine_povidky_015.html",
+      "words": 1899,
+      "chars": 10949,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 11,
+      "prev": "blaho_a_jine_povidky_014.html",
+      "next": "blaho_a_jine_povidky_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Feuille d’album",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Máčená okurka",
+      "file": "blaho_a_jine_povidky_016.html",
+      "words": 2229,
+      "chars": 12505,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 12,
+      "prev": "blaho_a_jine_povidky_015.html",
+      "next": "blaho_a_jine_povidky_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Máčená okurka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Guvernantka",
+      "file": "blaho_a_jine_povidky_017.html",
+      "words": 4819,
+      "chars": 28532,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 13,
+      "prev": "blaho_a_jine_povidky_016.html",
+      "next": "blaho_a_jine_povidky_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Guvernantka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zjevení",
+      "file": "blaho_a_jine_povidky_018.html",
+      "words": 1980,
+      "chars": 11630,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 14,
+      "prev": "blaho_a_jine_povidky_017.html",
+      "next": "blaho_a_jine_povidky_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zjevení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Únik",
+      "file": "blaho_a_jine_povidky_019.html",
+      "words": 1742,
+      "chars": 9972,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 15,
+      "prev": "blaho_a_jine_povidky_018.html",
+      "next": "blaho_a_jine_povidky_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Únik",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nové šaty",
+      "file": "blaho_a_jine_povidky_020.html",
+      "words": 3816,
+      "chars": 21803,
+      "ideas": 131,
+      "role": "chapter",
+      "order": 16,
+      "prev": "blaho_a_jine_povidky_019.html",
+      "next": "blaho_a_jine_povidky_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nové šaty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Holčička",
+      "file": "blaho_a_jine_povidky_021.html",
+      "words": 1259,
+      "chars": 7134,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 17,
+      "prev": "blaho_a_jine_povidky_020.html",
+      "next": "blaho_a_jine_povidky_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Holčička",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Trochu dětinské, ale zcela přirozené",
+      "file": "blaho_a_jine_povidky_022.html",
+      "words": 6188,
+      "chars": 34272,
+      "ideas": 174,
+      "role": "chapter",
+      "order": 18,
+      "prev": "blaho_a_jine_povidky_021.html",
+      "next": "blaho_a_jine_povidky_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Trochu dětinské, ale zcela přirozené",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "blaho_a_jine_povidky_023.html",
+      "words": 44,
+      "chars": 287,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 19,
+      "prev": "blaho_a_jine_povidky_022.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 156,
+      "chars": 1007,
+      "ideas": 18,
+      "role": "about",
+      "order": null,
+      "prev": "blaho_a_jine_povidky_023.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 67127,
+      "chars": 388245,
+      "ideas": 2059
+    },
+    "chapters": {
+      "words": 66963,
+      "chars": 387185,
+      "ideas": 2037
+    }
+  }
+}
