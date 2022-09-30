@@ -1,1 +1,596 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Blaho a jiné povídky",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Katherine Mansfieldová",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-04-06T00:00:00.000Z",
+      "contentType": "prose",
+      "publisherShort": "mkp",
+      "edition": "Beletrie"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "blaho_a_jine_povidky_001.md",
+            "xhtml": "blaho_a_jine_povidky_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "blaho_a_jine_povidky_002.md",
+            "xhtml": "blaho_a_jine_povidky_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "blaho_a_jine_povidky_003.md",
+            "xhtml": "blaho_a_jine_povidky_003.xhtml",
+            "id": 2,
+            "role": "about",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "blaho_a_jine_povidky_004.md",
+            "xhtml": "blaho_a_jine_povidky_004.xhtml",
+            "id": 3,
+            "role": "about",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "blaho_a_jine_povidky_005.md",
+            "xhtml": "blaho_a_jine_povidky_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Katherine Mansfieldová"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_006.md",
+            "xhtml": "blaho_a_jine_povidky_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Preludium"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_007.md",
+            "xhtml": "blaho_a_jine_povidky_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Je ne parle pas français4"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_008.md",
+            "xhtml": "blaho_a_jine_povidky_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Blaho"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_009.md",
+            "xhtml": "blaho_a_jine_povidky_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Duje vítr"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_010.md",
+            "xhtml": "blaho_a_jine_povidky_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Psychologie"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_011.md",
+            "xhtml": "blaho_a_jine_povidky_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "U filmu"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_012.md",
+            "xhtml": "blaho_a_jine_povidky_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Člověk bez temperamentu"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_013.md",
+            "xhtml": "blaho_a_jine_povidky_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Den pana Zvonimíra Páva"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_014.md",
+            "xhtml": "blaho_a_jine_povidky_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Sluníčko a Hvězdička"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_015.md",
+            "xhtml": "blaho_a_jine_povidky_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Feuille d’album"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_016.md",
+            "xhtml": "blaho_a_jine_povidky_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Máčená okurka"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_017.md",
+            "xhtml": "blaho_a_jine_povidky_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Guvernantka"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_018.md",
+            "xhtml": "blaho_a_jine_povidky_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zjevení"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_019.md",
+            "xhtml": "blaho_a_jine_povidky_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Únik"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_020.md",
+            "xhtml": "blaho_a_jine_povidky_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nové šaty"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_021.md",
+            "xhtml": "blaho_a_jine_povidky_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Holčička"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_022.md",
+            "xhtml": "blaho_a_jine_povidky_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Trochu dětinské, ale zcela přirozené"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_023.md",
+            "xhtml": "blaho_a_jine_povidky_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ediční poznámka"
+          },
+          {
+            "filename": "blaho_a_jine_povidky_024.md",
+            "xhtml": "blaho_a_jine_povidky_024.xhtml",
+            "id": 23,
+            "role": "about",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Blaho a jiné povídky",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Katherine Mansfieldová",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-04-06T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_001.md",
+        "xhtml": "blaho_a_jine_povidky_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_002.md",
+        "xhtml": "blaho_a_jine_povidky_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_003.md",
+        "xhtml": "blaho_a_jine_povidky_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_004.md",
+        "xhtml": "blaho_a_jine_povidky_004.xhtml"
+      },
+      {
+        "titleSuggest": "Katherine Mansfieldová",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_005.md",
+        "xhtml": "blaho_a_jine_povidky_005.xhtml"
+      },
+      {
+        "titleSuggest": "Preludium",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_006.md",
+        "xhtml": "blaho_a_jine_povidky_006.xhtml"
+      },
+      {
+        "titleSuggest": "Je ne parle pas français4",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_007.md",
+        "xhtml": "blaho_a_jine_povidky_007.xhtml"
+      },
+      {
+        "titleSuggest": "Blaho",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_008.md",
+        "xhtml": "blaho_a_jine_povidky_008.xhtml"
+      },
+      {
+        "titleSuggest": "Duje vítr",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_009.md",
+        "xhtml": "blaho_a_jine_povidky_009.xhtml"
+      },
+      {
+        "titleSuggest": "Psychologie",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_010.md",
+        "xhtml": "blaho_a_jine_povidky_010.xhtml"
+      },
+      {
+        "titleSuggest": "U filmu",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_011.md",
+        "xhtml": "blaho_a_jine_povidky_011.xhtml"
+      },
+      {
+        "titleSuggest": "Člověk bez temperamentu",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_012.md",
+        "xhtml": "blaho_a_jine_povidky_012.xhtml"
+      },
+      {
+        "titleSuggest": "Den pana Zvonimíra Páva",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_013.md",
+        "xhtml": "blaho_a_jine_povidky_013.xhtml"
+      },
+      {
+        "titleSuggest": "Sluníčko a Hvězdička",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_014.md",
+        "xhtml": "blaho_a_jine_povidky_014.xhtml"
+      },
+      {
+        "titleSuggest": "Feuille d’album",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_015.md",
+        "xhtml": "blaho_a_jine_povidky_015.xhtml"
+      },
+      {
+        "titleSuggest": "Máčená okurka",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_016.md",
+        "xhtml": "blaho_a_jine_povidky_016.xhtml"
+      },
+      {
+        "titleSuggest": "Guvernantka",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_017.md",
+        "xhtml": "blaho_a_jine_povidky_017.xhtml"
+      },
+      {
+        "titleSuggest": "Zjevení",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_018.md",
+        "xhtml": "blaho_a_jine_povidky_018.xhtml"
+      },
+      {
+        "titleSuggest": "Únik",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_019.md",
+        "xhtml": "blaho_a_jine_povidky_019.xhtml"
+      },
+      {
+        "titleSuggest": "Nové šaty",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_020.md",
+        "xhtml": "blaho_a_jine_povidky_020.xhtml"
+      },
+      {
+        "titleSuggest": "Holčička",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_021.md",
+        "xhtml": "blaho_a_jine_povidky_021.xhtml"
+      },
+      {
+        "titleSuggest": "Trochu dětinské, ale zcela přirozené",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_022.md",
+        "xhtml": "blaho_a_jine_povidky_022.xhtml"
+      },
+      {
+        "titleSuggest": "Ediční poznámka",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_023.md",
+        "xhtml": "blaho_a_jine_povidky_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "blaho_a_jine_povidky_024.md",
+        "xhtml": "blaho_a_jine_povidky_024.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_blaho_a_jine_povidky.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "CharOverride-3",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_-I-",
+      "MLP_dopis_bez1radku",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_pozn_pod_carou",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_-12-0-",
+      "MLP_text_-I-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_bez1radku_-I-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_prekladatel",
+      "MLP_uroven2_kapitola",
+      "MLP_uroven3_nadpis",
+      "MLP_verse_-I-_-0-12-",
+      "MLP_verse_-I-_-12-12-",
+      "MLP_znak_kurziva_11b",
+      "MLP_znak_kurziva_9b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-3",
+      "ParaOverride-5",
+      "ParaOverride-6",
+      "Z-kladn--textový-r-meček",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "mansfield-blaho-a-jine-povidky"
+    },
+    "generatedAt": 1664526064389
+  }
+}
