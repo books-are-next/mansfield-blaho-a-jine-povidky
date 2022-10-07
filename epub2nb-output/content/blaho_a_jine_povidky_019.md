@@ -72,5 +72,13 @@ V kymácivé chodbě ve vlaku. Byla noc. Vlak se řítil a rachotil tmou. Drž
 Hlasy se ozývaly šeptem, šeptem. Ani na chvíli neumlkly. Ale jak tam stál, zalévalo ho takové rajské štěstí, že si přál žít na věky.
 
 * * *
-[^38]: Vůz. (Fr.) _Pozn. red._[^39] Jeďte rychle, rychle. (Fr.) _Pozn. překl._[^40] Drožkáři! Drožkáři! Zastavte! (Fr.) _Pozn. překl._[^41] Ano, paní, nejsem zcela zdráva… Mé nervy. (Fr.) _Pozn. překl_.
+
+[^38]: Vůz. (Fr.) _Pozn. red._
+
+[^39]: Jeďte rychle, rychle. (Fr.) _Pozn. překl._
+
+[^40]: Drožkáři! Drožkáři! Zastavte! (Fr.) _Pozn. překl._
+
+[^41]: Ano, paní, nejsem zcela zdráva… Mé nervy. (Fr.) _Pozn. překl_.
+
 </section>

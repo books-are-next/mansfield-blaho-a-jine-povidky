@@ -60,5 +60,7 @@ Jiří vzal kartáč. „Máte na plášti trochu pudru,“ zamumlal. Okar­tá�
 „Do Knížecího hotelu,“ zaštkala. A po celou cestu viděla pořád drobounkou voskovou panenku s chmýřím zlatých vlasů, jak leží pokorně se složenýma ručkama a nožkama. A vtom, právě když dojížděli ke Knížecímu hotelu, uviděla květinářství plné bílých květin. Oh, znamenitý nápad. Konvalinky, bílé macešky, plnokvěté bílé fialky a bílá sametová stuha… Od neznámé přítelkyně… Od někoho, kdo rozumí… Děvčátku… Zaklepala na okno, ale řidič neslyšel, a ostatně už byli u Knížecího hotelu.
 
 * * *
+
 [^37]: Ah, podívejte…! To je větrem, milostpaní. Je tam nesnesitelný vítr. (Fr.) _Pozn. překl_.
+
 </section>

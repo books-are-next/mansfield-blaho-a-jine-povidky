@@ -110,5 +110,7 @@ Tma zastírá perutí rozbouřené vodstvo. Už ty dva není vidět. Sbohem, sbo
 Ten vítr – ten vítr.
 
 * * *
+
 [^14]: Mému příteli. (Fr.) _Pozn. překl._
+
 </section>

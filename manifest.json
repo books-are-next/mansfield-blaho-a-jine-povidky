@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mansfieldova-blaho-a-jine-povidky-ffbd6be",
-  "revision": "ffbd6be",
+  "identifier": "mansfieldova-blaho-a-jine-povidky-bb018da",
+  "revision": "bb018da",
   "readingOrder": [
     "promo.html",
     "blaho_a_jine_povidky_005.html",
@@ -34,8 +34,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:09:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640566994
+    "date": "Fri Oct 07 2022 14:11:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151912920
   },
   "documents": [
     {
@@ -73,9 +73,9 @@
     {
       "title": "Preludium",
       "file": "blaho_a_jine_povidky_006.html",
-      "words": 13471,
-      "chars": 77992,
-      "ideas": 466,
+      "words": 13472,
+      "chars": 77987,
+      "ideas": 467,
       "role": "chapter",
       "order": 2,
       "prev": "blaho_a_jine_povidky_005.html",
@@ -178,9 +178,9 @@
     {
       "title": "Je ne parle pas français4",
       "file": "blaho_a_jine_povidky_007.html",
-      "words": 8828,
-      "chars": 50521,
-      "ideas": 296,
+      "words": 8869,
+      "chars": 50727,
+      "ideas": 303,
       "role": "chapter",
       "order": 3,
       "prev": "blaho_a_jine_povidky_006.html",
@@ -198,9 +198,9 @@
     {
       "title": "Blaho",
       "file": "blaho_a_jine_povidky_008.html",
-      "words": 4005,
-      "chars": 23025,
-      "ideas": 165,
+      "words": 4006,
+      "chars": 23018,
+      "ideas": 166,
       "role": "chapter",
       "order": 4,
       "prev": "blaho_a_jine_povidky_007.html",
@@ -278,9 +278,9 @@
     {
       "title": "Člověk bez temperamentu",
       "file": "blaho_a_jine_povidky_012.html",
-      "words": 4066,
-      "chars": 23878,
-      "ideas": 132,
+      "words": 4067,
+      "chars": 23871,
+      "ideas": 133,
       "role": "chapter",
       "order": 8,
       "prev": "blaho_a_jine_povidky_011.html",
@@ -378,9 +378,9 @@
     {
       "title": "Guvernantka",
       "file": "blaho_a_jine_povidky_017.html",
-      "words": 4819,
-      "chars": 28532,
-      "ideas": 26,
+      "words": 4836,
+      "chars": 28422,
+      "ideas": 43,
       "role": "chapter",
       "order": 13,
       "prev": "blaho_a_jine_povidky_016.html",
@@ -418,9 +418,9 @@
     {
       "title": "Únik",
       "file": "blaho_a_jine_povidky_019.html",
-      "words": 1742,
-      "chars": 9972,
-      "ideas": 33,
+      "words": 1745,
+      "chars": 9951,
+      "ideas": 36,
       "role": "chapter",
       "order": 15,
       "prev": "blaho_a_jine_povidky_018.html",
@@ -518,9 +518,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 156,
+      "words": 153,
       "chars": 1007,
-      "ideas": 18,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "blaho_a_jine_povidky_023.html",
@@ -538,14 +538,14 @@
   ],
   "totals": {
     "all": {
-      "words": 67127,
-      "chars": 388245,
-      "ideas": 2059
+      "words": 67188,
+      "chars": 388301,
+      "ideas": 2086
     },
     "chapters": {
-      "words": 66963,
-      "chars": 387185,
-      "ideas": 2037
+      "words": 67027,
+      "chars": 387241,
+      "ideas": 2067
     }
   }
 }

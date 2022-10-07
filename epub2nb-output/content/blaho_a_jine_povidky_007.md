@@ -678,5 +678,21 @@ Už musím jít. Už musím jít. Sundávám si zimník a klobouk. Ma­dame mě
 „Ne. Ještě ne, madame.“
 
 * * *
-[^4]: Neumím francouzsky. (Fr.) _Pozn. překl._[^5] Jděme dál. (Fr.) _Pozn. překl._[^6] Hodné dítě. (Fr.) _Pozn. překl._[^7] Milý brachu. (Fr.) _Pozn. překl._[^8] Vybraný, nóbl. (Fr.) _Pozn. překl._[^9] Ostatně. (Fr.) _Pozn. překl._[^10] Ten milý. (Fr.) _Pozn. překl._[^11] Naše Paříž. (Fr.) _Pozn. překl._
+
+[^4]: Neumím francouzsky. (Fr.) _Pozn. překl._
+
+[^5]: Jděme dál. (Fr.) _Pozn. překl._
+
+[^6]: Hodné dítě. (Fr.) _Pozn. překl._
+
+[^7]: Milý brachu. (Fr.) _Pozn. překl._
+
+[^8]: Vybraný, nóbl. (Fr.) _Pozn. překl._
+
+[^9]: Ostatně. (Fr.) _Pozn. překl._
+
+[^10]: Ten milý. (Fr.) _Pozn. překl._
+
+[^11]: Naše Paříž. (Fr.) _Pozn. překl._
+
 </section>

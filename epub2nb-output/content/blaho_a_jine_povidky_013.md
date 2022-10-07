@@ -244,5 +244,7 @@ Ale když vpadl do tmavého bytu, ten báječný pocit povznesenosti z něho u�
 V tom rozcitlivění si zul lakový střevíc a praštil jím do kouta. Žena se tím úderem probudila a strašně se lekla. Posadila se a odhrnula si vlasy. A tu si umínil, že se ještě jednou pokusí jednat s ní přátelsky, všechno jí vypovědět a získat si ji. Posadil se na postel a uchopil ji za jednu ruku. Nemohl však ze sebe vypravit ani jednu z těch skvělých věcí, které měl na srdci. Čert ví proč, ale vyhrkl jen: „Milostivá, bude mi velikým potěšením – velikým potěšením!“
 
 * * *
+
 [^18]: Toť vše. (Fr.) _Pozn. překl._
+
 </section>
