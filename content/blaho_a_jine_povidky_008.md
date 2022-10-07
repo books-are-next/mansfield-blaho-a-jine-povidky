@@ -356,5 +356,9 @@ Berta se přímo rozběhla k dlouhému oknu.
 Ale hrušeň byla krásná jako dříve a obsypaná květy a klidná.
 
 * * *
-[^12]: Platí. (Fr.) _Pozn. překl_.[^13] Spjatá, důvěrně známá. (Fr.) _Pozn. překl._
+
+[^12]: Platí. (Fr.) _Pozn. překl_.
+
+[^13]: Spjatá, důvěrně známá. (Fr.) _Pozn. překl._
+
 </section>

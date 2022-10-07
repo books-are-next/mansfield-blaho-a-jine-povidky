@@ -276,5 +276,7 @@ Zámek se rozlétl – brašna se před ní rozšklebila jako bezzubá tlama a�
 Doktor Malcolm sklapl brašnu. „S tou bábou je marné mluvit,“ přemýšlel, „vůbec nechápe, co jí říkám. To jsem to vymňouk. Ještě jsem nakonec připravil Helenu o panenku.“
 
 * * *
+
 [^42]: Kabát. _Pozn. red._
+
 </section>

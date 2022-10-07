@@ -66,5 +66,41 @@ Utíkala a utíkala po ulici, až přišla na širokou třídu s tramvajemi, k
 Když se guvernantka dostala do vestibulu hotelu Grunewald, stál u stolu týž pikolík, který přišel ráno do jejího pokoje, a utíral plný podnos sklenic. Při pohledu na guvernantku jako by ho zaplavilo záhadné radostné uspokojení. Nemohl se její otázky ani dočkat; odpovídal zčerstva a úslužně: „Ano, Fräulein, ta dáma tu byla. Řekl jsem jí, že jste sem přijela, ale hned zase jste s nějakým pánem odešla. Ptala se mne, kdy se vrátíte – ale já jsem to ovšem nevěděl. Potom šla za ředitelem.“ Vzal se stolu sklenici, zdvihl ji proti světlu, přimhouřil jedno oko a podíval se na ni a jal se ji cípem zástěry utírat. „…?“ „Jak račte, Fräulein? Ach ne, Fräulein. Ředitel jí také nemohl říci nic – pranic.“ Zavrtěl hlavou a usmál se na vyleštěnou sklenici. „A kde je ta dáma?“ zeptala se guvernantka a roztřásla se tak prudce, že si musela přidržet na ústech kapesník. „Vím já?“ křikl pikolík, a jak se kolem ní skokem vrhl na nového zákazníka, bušilo mu srdce tak prudce do žeber, že se div nezachechtal. „Tu máš, tu máš!“ říkal si. „Dobře jí tak!“ Hodil si kufr nového hosta na záda – hop! – jako by byl obr a ten kufr pouhé pírko, a znovu se v duchu mazlil s guvernantčinými slovy: „Gehen Sie! Gehen Sie sofort. Bodejť! Bodejť!“ hulákal si sám pro sebe.
 
 * * *
-[^19]: Jen pro dámy. (Fr.) _Pozn. překl._[^20] Dobrá. (Fr.) _Pozn. překl_.[^21] Nastupovat. (Fr.) _Pozn. překl._[^22] Děkuji, pane. (Fr.) _Pozn. překl_.[^23] Ráz, dva, tři. (Fr.) _Pozn. překl_.[^24] Ano, trochu, víc než francouzsky. (Něm.) _Pozn. překl._[^25] A tak. (Něm.) _Pozn. překl._[^26] Ano, je to tragédie. (Něm.) _Pozn. překl_.[^27] How do you do? Which is the way to Leicester Square? Poklona. Kudy se jde na Leicester Square? (Angl.; zkomoleně podle německé výslovnosti.) _Pozn. překl_.[^28] Děkuji, nechci. (Něm.) _Pozn. překl._[^29] Kolik? (Něm.) _Pozn. překl._[^30] Mockrát děkuji… jsou překrásné. (Něm.) _Pozn. překl_.[^31] Že ano? (Něm.) _Pozn. překl_.[^32] Pan vládní rada. (Něm.) _Pozn. překl_.[^33] Zajisté. (Něm.) _Pozn. překl_.[^34] Už jděte. (Něm.) _Pozn. překl_.[^35] Jemnostpaní. (Něm.) _Pozn. překl_.[^36] No tohle. (Něm.) _Pozn. překl._
+
+[^19]: Jen pro dámy. (Fr.) _Pozn. překl._
+
+[^20]: Dobrá. (Fr.) _Pozn. překl_.
+
+[^21]: Nastupovat. (Fr.) _Pozn. překl._
+
+[^22]: Děkuji, pane. (Fr.) _Pozn. překl_.
+
+[^23]: Ráz, dva, tři. (Fr.) _Pozn. překl_.
+
+[^24]: Ano, trochu, víc než francouzsky. (Něm.) _Pozn. překl._
+
+[^25]: A tak. (Něm.) _Pozn. překl._
+
+[^26]: Ano, je to tragédie. (Něm.) _Pozn. překl_.
+
+[^27]: How do you do? Which is the way to Leicester Square? Poklona. Kudy se jde na Leicester Square? (Angl.; zkomoleně podle německé výslovnosti.) _Pozn. překl_.
+
+[^28]: Děkuji, nechci. (Něm.) _Pozn. překl._
+
+[^29]: Kolik? (Něm.) _Pozn. překl._
+
+[^30]: Mockrát děkuji… jsou překrásné. (Něm.) _Pozn. překl_.
+
+[^31]: Že ano? (Něm.) _Pozn. překl_.
+
+[^32]: Pan vládní rada. (Něm.) _Pozn. překl_.
+
+[^33]: Zajisté. (Něm.) _Pozn. překl_.
+
+[^34]: Už jděte. (Něm.) _Pozn. překl_.
+
+[^35]: Jemnostpaní. (Něm.) _Pozn. překl_.
+
+[^36]: No tohle. (Něm.) _Pozn. překl._
+
 </section>

@@ -44,5 +44,7 @@ _Když psal před dvanácti lety anglický kritik a povídkář V. S. Pritchett
 > _Aloys Skoumal_
 
 * * *
+
 [^1]: Zemřel v roce 1957. _Pozn. red._
+
 </section>

@@ -286,5 +286,9 @@ Sklání se k ní. Líbá ji. Zavinuje ji, narovnává jí polštář.
 „Hlouposti!“ šeptá.
 
 * * *
-[^16]: Přejete si, pane? (Fr.) _Pozn. překl._[^17] Vous avez vu ça? Viděli jste to? (Fr.; zkomoleně podle americké výslovnosti.) _Pozn. překl._
+
+[^16]: Přejete si, pane? (Fr.) _Pozn. překl._
+
+[^17]: Vous avez vu ça? Viděli jste to? (Fr.; zkomoleně podle americké výslovnosti.) _Pozn. překl._
+
 </section>

@@ -991,5 +991,9 @@ Ale v Keziiných představách se rozbilo už v tu chvíli, kdy vylétlo do vz
 Potom náramně rychle a povýšeně odešla po špičkách…
 
 * * *
-[^2]: Nilská zeleň. (Fr.) _Pozn. překl._[^3] Klobouk. (Fr.) _Pozn. překl._
+
+[^2]: Nilská zeleň. (Fr.) _Pozn. překl._
+
+[^3]: Klobouk. (Fr.) _Pozn. překl._
+
 </section>

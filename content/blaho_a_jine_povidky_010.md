@@ -140,5 +140,7 @@ Lehátko bylo velmi rozházeno. Polštáře jsou, řekla si, „jako posupné ho
 Nakonec připsala: „Dobrou noc, miláčku, přijďte zase.“
 
 * * *
+
 [^15]: Jako hlemýžď. (Fr.) _Pozn. překl._
+
 </section>
