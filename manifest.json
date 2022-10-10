@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mansfieldova-blaho-a-jine-povidky-bb018da",
-  "revision": "bb018da",
+  "identifier": "mansfieldova-blaho-a-jine-povidky-0c9e543",
+  "revision": "0c9e543",
   "readingOrder": [
     "promo.html",
     "blaho_a_jine_povidky_005.html",
@@ -34,8 +34,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:11:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151912920
+    "date": "Mon Oct 10 2022 16:04:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417868456
   },
   "documents": [
     {
@@ -519,7 +519,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 153,
-      "chars": 1007,
+      "chars": 1008,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -539,7 +539,7 @@
   "totals": {
     "all": {
       "words": 67188,
-      "chars": 388301,
+      "chars": 388302,
       "ideas": 2086
     },
     "chapters": {
